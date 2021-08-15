@@ -12,6 +12,7 @@ namespace Task1
 
         public static bool IsPrime(int number)
         {
+            int i;
             throw new NotImplementedException();
         }
     }
