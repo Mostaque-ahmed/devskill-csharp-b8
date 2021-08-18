@@ -12,6 +12,14 @@ namespace Task2
 
         public static int StringValue(string aText)
         {
+            int sum = 0;
+            for (int i=0; i<aText.Length; i++)
+            {
+                
+
+            }
+            
+
             throw new NotImplementedException();
         }
     }
